@@ -3,6 +3,8 @@
 
  A hybrid deep learning model combining Convolutional Neural Networks (*CNN*) for spatial feature extraction and Long Short-Term Memory (*LSTM*) for temporal sequence modeling is implemented
 
+Link od Notebook: https://colab.research.google.com/drive/1giF13fzHTNgXf9onNZUjCcyH1pp0TND1?usp=sharing
+
 The name of dataset: Human Activity Recognition (*HAR* - Video Dataset) and the size of it is *14.8G* 
 https://www.kaggle.com/datasets/sharjeelmazhar/human-activity-recognition-video-dataset
 
