@@ -22,11 +22,9 @@ All videos are standardized to **10 frames** of size **32×32 pixels** with 3 RG
 
 ## Hyperparameters
 
-   **Epochs**: 30 
-   
-   **Batch Size**: 16
-   
-   **learning rate**: 1e-3
+   -**Epochs**: 30
+   -**Batch Size**: 16
+   -**learning rate**: 1e-3
 
 **Optimizer**: Adam 
 
