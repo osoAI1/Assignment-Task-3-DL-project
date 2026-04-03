@@ -29,11 +29,10 @@ All videos are standardized to **10 frames** of size **32×32 pixels** with 3 RG
 **Loss Function**: CrossEntropyLoss
 
 ##
-
 **Test Accuracy: 0.9109**
 
 <img width="581" height="516" alt="image" src="https://github.com/user-attachments/assets/3cb815ba-f2ce-4343-842a-b2e040e535a7" />
-##
+
 <img width="691" height="393" alt="image" src="https://github.com/user-attachments/assets/85a672ea-681f-4429-96d8-249e9b5afd8f" />
-##
+
 <img width="789" height="418" alt="image" src="https://github.com/user-attachments/assets/38be3dc5-370e-4b7b-a22b-74f70169b043" />
